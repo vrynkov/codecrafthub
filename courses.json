@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 11:50:33"
+    },
+    {
+        "id": 3,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:28"
+    },
+    {
+        "id": 4,
+        "name": "Web Development",
+        "description": "HTML, CSS, JavaScript basics",
+        "target_date": "2026-03-15",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:28"
+    },
+    {
+        "id": 5,
+        "name": "Data Science Fundamentals",
+        "description": "Introduction to data analysis and machine learning",
+        "target_date": "2026-06-30",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:29"
+    },
+    {
+        "id": 6,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:53"
+    },
+    {
+        "id": 7,
+        "name": "Web Development",
+        "description": "HTML, CSS, JavaScript basics",
+        "target_date": "2026-03-15",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:54"
+    },
+    {
+        "id": 8,
+        "name": "Data Science Fundamentals",
+        "description": "Introduction to data analysis and machine learning",
+        "target_date": "2026-06-30",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:33:54"
+    },
+    {
+        "id": 9,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:34:20"
+    },
+    {
+        "id": 10,
+        "name": "Web Development",
+        "description": "HTML, CSS, JavaScript basics",
+        "target_date": "2026-03-15",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:34:20"
+    },
+    {
+        "id": 11,
+        "name": "Data Science Fundamentals",
+        "description": "Introduction to data analysis and machine learning",
+        "target_date": "2026-06-30",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:34:20"
+    },
+    {
+        "id": 12,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:39:21"
+    },
+    {
+        "id": 13,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:40:39"
+    },
+    {
+        "id": 14,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:40:45"
+    },
+    {
+        "id": 15,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:41:04"
+    },
+    {
+        "id": 16,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:42:01"
+    },
+    {
+        "id": 17,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:42:07"
+    },
+    {
+        "id": 18,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:42:32"
+    },
+    {
+        "id": 19,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-05-01 13:43:00"
+    }
+]
